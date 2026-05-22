@@ -1,11 +1,12 @@
-name: Spell Check
+name: 'Spell Check'
 on:
   pull_request:
     branches: [main]
-
 jobs:
-  spellcheck:
+  spellcheck: # run the action
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: streetsidesoftware/cspell-action@v6
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: streetsidesoftware/cspell-action@v8
