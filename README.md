@@ -17,7 +17,6 @@
 ### Fun Fact
 
 I once ate an entire pizza by myself in under 10 minutes. 🍕
-fakenews
 
 ### Goals for This Workshop
 
