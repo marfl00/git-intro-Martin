@@ -1,8 +1,8 @@
 # My Project Page
 
 ## git-intro-Martin
-- link: https://github.com/marfl00/git-intro-Martin
 
+- link: https://github.com/marfl00/git-intro-Martin
 
 ### About Me
 
@@ -16,8 +16,8 @@
   
 ### Fun Fact
 
-I once ate an entire pizza by myself in under 10 minutes. 🍕
-fakenews
+I once ate an entire pizza by myself in under 5 minutes. 🍕
+erneuert
 
 ### Goals for This Workshop
 
